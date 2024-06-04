@@ -179,7 +179,7 @@ matches:
   - trigger: ":installation__the_installation_process_got_stuck_at_a_certain_point_what_should_i_do"
     replace: |
       We are so sorry to hear that! 
-If your device meets with the eligibility requirements (OS: Windows 10 Home/ Pro, Windows 11 Home/Pro operating system, 1 core CPU, 4GB RAM and 200GB free disk space) and you are part of the private preview, please contact us on support@hivello.com .
+      If your device meets with the eligibility requirements (OS: Windows 10 Home/ Pro, Windows 11 Home/Pro operating system, 1 core CPU, 4GB RAM and 200GB free disk space) and you are part of the private preview, please contact us on support@hivello.com .
   - trigger: ":installation__can_you_help_me_figure_out_the_right_version_of_the_app"
     replace: |
       The currently available version of the app is the Beta version. The prerequisites to use the app are: Windows 10 Home/ Pro or Windows 11 Home/Pro operating system, 1 core CPU, 4GB RAM and 200GB free disk space. If your device doesn’t meet with the OS, CPU, RAM or disk prerequisites, you won’t be able to run the application.
